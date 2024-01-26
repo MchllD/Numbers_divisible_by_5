@@ -22,6 +22,8 @@ print("\nThere is a list of numbers. Let's identify the numbers that are divisib
 print("\nGiven list:", num_list)
 
 # Create a list using list comprehension to store numbers divisible by 5
+divisible_by_5 = [num for num in num_list if num % 5 == 0]
+
 # Print numbers divisible by 5
 # Iterate over the list of numbers divisible by 5
 
