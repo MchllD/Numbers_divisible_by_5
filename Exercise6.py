@@ -25,5 +25,8 @@ print("\nGiven list:", num_list)
 divisible_by_5 = [num for num in num_list if num % 5 == 0]
 
 # Print numbers divisible by 5
+print('\nNumbers divisible by 5:') 
+
+
 # Iterate over the list of numbers divisible by 5
 
