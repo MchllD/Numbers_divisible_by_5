@@ -11,7 +11,8 @@
 # Print numbers divisible by 5
 # Iterate over the list of numbers divisible by 5
 
-# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ actual code ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ actual code ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 # Given list of numbers
@@ -29,4 +30,6 @@ print('\nNumbers divisible by 5:')
 
 
 # Iterate over the list of numbers divisible by 5
+for num in divisible_by_5:
+    print(num)
 
